@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment Variables
+.env
+
+# Data Files (keep these local)
+verifiedGenesisUsers.json
+usedTxHashes.json
+messageId.txt
+
+# Logs
+*.log
+bot.log
+
+# OS Files
+.DS_Store
+Thumbs.db
