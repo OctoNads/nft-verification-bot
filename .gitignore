@@ -6,8 +6,6 @@ package-lock.json
 .env
 
 # Data Files (keep these local)
-verifiedGenesisUsers.json
-usedTxHashes.json
 messageId.txt
 
 # Logs
